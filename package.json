@@ -1,10 +1,10 @@
 {
   "name": "gatsby-starter-ghost",
-  "description": "A starter template to build lightning fast websites with Ghost and Gatsby",
+  "description": "Fintech news blog",
   "version": "1.0.0",
   "license": "MIT",
-  "author": "Ghost Foundation",
-  "homepage": "https://docs.ghost.org/api/gatsby/",
+  "author": "Techfinnews.com",
+  "homepage": "http://www.techfinnews.com",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tryghost/gatsby-starter-ghost.git"
